@@ -1,0 +1,21 @@
+{
+  "name": "openaiimggen",
+  "version": "1.0.0",
+  "description": "Open AI image generator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openAI",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Goran Radmanovic",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  }
+}

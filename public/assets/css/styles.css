@@ -1,0 +1,15 @@
+.show {
+  display: block !important;
+}
+
+.hidden {
+  display: none;
+}
+
+.openai-img {
+  max-width: 256px;
+  max-height: 256px;
+  margin: 30px auto;
+  border-radius: 4px;
+  object-fit: contain;
+}
